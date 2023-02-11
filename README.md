@@ -24,7 +24,7 @@ Say goodbye to guesswork and hello to accurate predictions powered by a rigorous
 
 ## Contact
 <p> Anne-Gaëlle Sng - annegaelleandco@gmail.com </p>
-<p> Project Link: https://github.com/annegaelle-sng/google_trends_search_interest </p>
+<p> Project Link: https://github.com/annegaelle-sng/sales-prediction-with-linear-regression</p>
 
 ## Acknowledgment 
 <ul>
