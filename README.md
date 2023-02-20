@@ -11,13 +11,6 @@ With the right allocation of resources towards different advertising channels, s
 
 Say goodbye to guesswork and hello to accurate predictions powered by a rigorously selected linear regression model. :)
 
-<br>
-
-https://user-images.githubusercontent.com/65827751/219995666-7c7c2ef3-6f22-4767-91f8-14e86685e204.mov 
-
-*Mini-simulator built with the interactive widgets of Jupiter Notebook*
-
-<br> 
 
 
 ## Build with: 
@@ -30,6 +23,13 @@ https://user-images.githubusercontent.com/65827751/219995666-7c7c2ef3-6f22-4767-
     <li> Ipywidgets
 </ul> 
 
+<br>
+
+https://user-images.githubusercontent.com/65827751/219995666-7c7c2ef3-6f22-4767-91f8-14e86685e204.mov 
+
+*Mini-simulator built with the interactive widgets of Jupiter Notebook*
+
+<br> 
 
 ## Contact
 <p> Anne-Gaëlle Sng - annegaelleandco@gmail.com </p>
